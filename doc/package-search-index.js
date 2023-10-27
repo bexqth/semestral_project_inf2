@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.uniza.fri.game"},{"l":"sk.uniza.fri.character"},{"l":"sk.uniza.fri.matter"},{"l":"sk.uniza.fri.mission"},{"l":"sk.uniza.fri.npc"},{"l":"sk.uniza.fri.world"}];updateSearchResults();

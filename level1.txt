@@ -1,0 +1,4 @@
+ultina 40
+singe 5
+pierce 10
+torture 20
